@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		#container {
+			width: 100%;
+			font-family: sans-serif;
+			font-size: 200%;
+			text-align: center;
+			vertical-align: middle;
+		}
+		#lane1 {
+			width: 100%;
+			height: 13%;
+			background-color: #DACDBA;
+			display: grid;	
+			grid-column-gap: 2px;
+			padding: 5px 0px;
+		}
+		#lane2 {
+			width: 100%;
+			height: 13%;
+			background-color: #F8C05B;
+			display: grid;	
+			grid-column-gap: 2px;
+			padding: 5px 0px;
+		}
+		#lane3 {
+			width: 100%;
+			height: 13%;
+			background-color: #80B4C9;
+			display: grid;	
+			grid-column-gap: 2px;
+			padding: 5px 0px;
+		}
+		#lane4 {
+			width: 100%;
+			height: 13%;
+			background-color: #B685B2;
+			display: grid;	
+			grid-column-gap: 2px;
+			padding: 5px 0px;
+		}
+		#lane5 {
+			width: 100%;
+			height: 13%;
+			background-color: #C1CE23;
+			display: grid;	
+			grid-column-gap: 2px;
+			padding: 5px 0px;
+		}
+		#lane6 {
+			width: 100%;
+			height: 13%;
+			background-color: #E1D7C9;
+			display: grid;	
+			grid-column-gap: 2px;
+			padding: 5px 0px;
+		}
+
+		#toolbar {
+			display: grid;	
+			grid-column-gap: 5px;
+			grid-template-columns: auto auto auto auto;
+		}
+
+		#roll {
+			background-color: #DD402A;	
+			padding: 10% 0;
+			
+		}
+
+		#extra1 {
+			background-color: #F19F17;
+			padding: 10% 0;
+			
+		}
+		#extra2 {
+			background-color: #F19F17;
+			padding: 10% 0;
+			
+		}
+		#extra3 {
+			background-color: #F19F17;
+			padding: 10% 0;
+		}
+
+		.dice {
+			background-color: #FFFFFF;
+			width: 30%;
+		}
+
+		.gold {
+			background-color: #F19F17;
+			width: 30%;
+		}
+
+		.toogleOn {
+			background-color: #DDFFFF !important;	
+		}
+
+	</style>
+	<script type="text/javascript">
+		window.addEventListener('load', function() {
+    	console.log('All assets are loaded');
+    	let body = document.body;
+    	let html = document.documentElement;
+
+			let height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+    	document.getElementById('container').setAttribute("style","height:"+(height-20)+"px");
+
+    	initControls();
+		});
+
+		function initControls() {
+			let roll = document.getElementById('roll');
+
+			roll.addEventListener('click', function() {
+				console.log('ROLL');
+				cleanLanes();
+				rollDice();
+			});
+
+			document.getElementById('extra1').addEventListener('click', function() {buyDice(extra1);});
+			document.getElementById('extra2').addEventListener('click', function() {buyDice(extra2);});
+			document.getElementById('extra3').addEventListener('click', function() {buyDice(extra3);});
+
+		}
+
+		function buyDice(target) {
+			console.log('toogle: '+target);
+			if (target.className=='toogleOn') {
+				target.className = '';
+			} else {
+				target.className = 'toogleOn';
+			}
+		}
+
+		function rollDice(argument) {
+			let roll = [];
+			let sortRoll = [];
+			let boughtCount = countBoughtDice();
+			let boughtIndex = [];
+			let boughtDices = [];
+			let max = 0;
+
+			for (let i=0; i<9+boughtCount; i++) {
+				let rand = Math.floor(Math.random() * 6) + 1;
+				roll[i] = rand;
+				if (rand > max) max = rand;
+			}
+			console.log(roll);
+			sortRoll = roll.sort()
+			console.log(sortRoll);
+
+			for (let i=0; i<boughtCount; i++) {
+				let rand = Math.floor(Math.random() * 3) + 1;
+				if (i==0) boughtIndex[i] = rand;
+				else boughtIndex[i] = rand + boughtIndex[i-1];
+			}
+
+			let boughtDicesTmp = [];
+			for (let i=0; i<boughtCount; i++) {
+				boughtDicesTmp[i] = roll[boughtIndex[i]];
+			}
+			boughtDices = boughtDicesTmp.sort();
+			console.log(boughtDices);
+
+			let lanes = [];
+			
+			
+			
+			let pivot = 0;
+			let lanePivot = 0;
+
+			for (let i = 1; i < 7; i++) lanes[i] = [];
+
+			for (let i = 1; i < 7; i++) {
+				let prev = sortRoll[pivot];
+				while (prev == sortRoll[pivot] && pivot < 9+boughtCount) {
+					if (sortRoll[pivot] == max) 
+						lanes[6][lanePivot++] = sortRoll[pivot];
+					else 
+						lanes[i][lanePivot++] = sortRoll[pivot];
+
+					prev = sortRoll[pivot];
+					pivot++;
+					
+				}
+				lanePivot = 0;
+			}
+			console.log(lanes);
+
+			let goldPosition = 0;
+
+			for (let i = 1; i < 7; i++) {
+				//;
+				let lane = document.getElementById('lane'+i);
+				for (var c = 0; c < lanes[i].length; c++) {
+					console.log("gp:"+goldPosition);
+					lane.innerHTML += diceTemplate(lanes[i][c], goldPosition < boughtCount && lanes[i][c]==boughtDices[goldPosition]);
+					if (goldPosition < boughtCount && lanes[i][c]==boughtDices[goldPosition]) {
+						goldPosition++;
+					}
+				}
+				
+				if (lanes[i].length>0) {
+					lane.setAttribute('style', getGridStyle(lanes[i].length));
+				}
+			}
+
+		}
+		
+		function getGridStyle(count) {
+			let text = '';
+			for (var i = 0; i < count; i++) {
+				text += ' auto';
+			}
+			return 'grid-template-columns: '+text+';'
+		}
+
+		function countBoughtDice() {
+			let c=0;
+			if (document.getElementById('extra1').className == 'toogleOn') c++;
+			if (document.getElementById('extra2').className == 'toogleOn') c++;
+			if (document.getElementById('extra3').className == 'toogleOn') c++;
+			console.log(c);
+			return c;
+		}
+
+		function cleanLanes() {
+			for (let i = 1; i < 7; i++) {
+				let lane = document.getElementById('lane'+i);
+				lane.innerHTML ='';
+				lane.setAttribute('style', '');
+			}
+		}
+
+		function diceTemplate(num, isGold) {
+			if (isGold) 
+				return '<div class="dice gold">'+num+'</div>';
+			else
+				return '<div class="dice">'+num+'</div>';
+		}
+	</script>
+</head>
+<body>
+
+	<div id="container">
+	<div id="lane6"></div>
+	<div id="lane5"></div>
+	<div id="lane4"></div>
+	<div id="lane3"></div>
+	<div id="lane2"></div>
+	<div id="lane1"></div>
+	<div id="toolbar">
+		<div id="roll">ROLL</div>
+		<div id="extra1">+1</div>
+		<div id="extra2">+1</div>
+		<div id="extra3">+1</div>
+	</div>
+	</div>
+</body>
+</html>
