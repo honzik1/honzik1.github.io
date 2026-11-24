@@ -1,0 +1,21 @@
+{
+  "name": "STYRAX, a.s.",
+  "symbol": "CZ0009001418",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/stx.jpg",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/stx.jpg",
+        "type": "image/png"
+      }
+    ]
+  }
+}
