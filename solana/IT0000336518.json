@@ -1,0 +1,25 @@
+{
+  "name": "JUVENTUS F.C.",
+  "symbol": "IT0000336518",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/file-slides-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "1007766660"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/file-slides-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

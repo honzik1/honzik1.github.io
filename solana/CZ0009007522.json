@@ -1,0 +1,25 @@
+{
+  "name": "HOLDER COMPUTER",
+  "symbol": "CZ0009007522",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/border-middle.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "40"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/border-middle.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

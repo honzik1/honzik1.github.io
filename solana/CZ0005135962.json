@@ -1,0 +1,25 @@
+{
+  "name": "EUROSEAL",
+  "symbol": "CZ0005135962",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/exclamation-octagon.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "100"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/exclamation-octagon.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

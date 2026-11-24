@@ -1,0 +1,25 @@
+{
+  "name": "ENTEC SOLUTIONS",
+  "symbol": "CZ0009006722",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/person-fill-slash.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "3000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/person-fill-slash.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

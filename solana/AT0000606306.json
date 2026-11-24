@@ -1,0 +1,25 @@
+{
+  "name": "RBI",
+  "symbol": "AT0000606306",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/hand-index.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "328939621"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/hand-index.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

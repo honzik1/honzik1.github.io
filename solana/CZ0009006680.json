@@ -1,0 +1,25 @@
+{
+  "name": "NEMOC. LITOMĚŘICE",
+  "symbol": "CZ0009006680",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/passport-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "11710"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/passport-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

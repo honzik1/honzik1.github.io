@@ -1,0 +1,25 @@
+{
+  "name": "NEM AGEL ČESKÝ TĚŠ",
+  "symbol": "CZ0009007316",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/database-down.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "100"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/database-down.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

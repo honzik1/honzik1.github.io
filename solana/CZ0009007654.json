@@ -1,0 +1,25 @@
+{
+  "name": "VŠ FIN. A SPRÁVNÍ",
+  "symbol": "CZ0009007654",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/boxes.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "180"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/boxes.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

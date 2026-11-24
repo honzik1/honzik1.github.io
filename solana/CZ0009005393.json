@@ -1,0 +1,25 @@
+{
+  "name": "ANALOGIA",
+  "symbol": "CZ0009005393",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/puzzle-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "100"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/puzzle-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

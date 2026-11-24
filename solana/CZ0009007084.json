@@ -1,0 +1,25 @@
+{
+  "name": "FLOWMON NETWORKS",
+  "symbol": "CZ0009007084",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/arrow-down-right-circle-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "2000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/arrow-down-right-circle-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

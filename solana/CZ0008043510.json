@@ -1,0 +1,25 @@
+{
+  "name": "KOOPERATIVA POJIŠ.",
+  "symbol": "CZ0008043510",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/bag-dash.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "1"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/bag-dash.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

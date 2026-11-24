@@ -1,0 +1,25 @@
+{
+  "name": "KARDIO CENTR. AGEL",
+  "symbol": "CZ0009007332",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/dash-lg.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "10"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/dash-lg.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

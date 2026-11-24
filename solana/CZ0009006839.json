@@ -1,0 +1,25 @@
+{
+  "name": "DRUGAGENCY",
+  "symbol": "CZ0009006839",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/layout-wtf.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "200"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/layout-wtf.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

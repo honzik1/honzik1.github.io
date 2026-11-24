@@ -1,0 +1,25 @@
+{
+  "name": "ČSAD HAVÍŘOV",
+  "symbol": "CZ0008210309",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/chat-dots-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "152185"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/chat-dots-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

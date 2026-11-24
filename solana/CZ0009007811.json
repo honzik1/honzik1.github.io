@@ -1,0 +1,25 @@
+{
+  "name": "M.I.P. GROUP",
+  "symbol": "CZ0009007811",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/blockquote-right.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "200"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/blockquote-right.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

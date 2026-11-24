@@ -1,0 +1,25 @@
+{
+  "name": "PAVUS",
+  "symbol": "CZ0009007498",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/bandaid.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "35549"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/bandaid.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

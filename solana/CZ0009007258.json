@@ -1,0 +1,25 @@
+{
+  "name": "NEM AGEL NOV JIČÍN",
+  "symbol": "CZ0009007258",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/ear-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "200"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/ear-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "CONE-STAVITELSTVÍ",
+  "symbol": "CZ0005133884",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/9-circle-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "400"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/9-circle-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

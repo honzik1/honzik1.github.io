@@ -1,0 +1,25 @@
+{
+  "name": "RM TRYMET",
+  "symbol": "CZ0005136432",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/brightness-alt-low-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "20"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/brightness-alt-low-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

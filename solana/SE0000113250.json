@@ -1,0 +1,25 @@
+{
+  "name": "SKANSKA",
+  "symbol": "SE0000113250",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/filetype-scss.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "400152329"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/filetype-scss.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

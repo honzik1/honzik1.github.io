@@ -1,0 +1,25 @@
+{
+  "name": "ALTEC",
+  "symbol": "CZ0009006607",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/r-circle-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "1032"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/r-circle-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

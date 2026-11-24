@@ -1,0 +1,25 @@
+{
+  "name": "PKO BANK POLSKI",
+  "symbol": "PLPKO0000016",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/floppy2.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "1250000000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/floppy2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

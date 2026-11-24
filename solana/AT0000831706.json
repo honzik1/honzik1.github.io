@@ -1,0 +1,25 @@
+{
+  "name": "WIENERBERGER",
+  "symbol": "AT0000831706",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/hexagon-half.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "117526764"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/hexagon-half.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "MEDICOM,A.S.PRAHA",
+  "symbol": "CZ0009006979",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/journal-text.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "1000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/journal-text.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

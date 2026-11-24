@@ -1,0 +1,25 @@
+{
+  "name": "ANDRITZ",
+  "symbol": "AT0000730007",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/gender-female.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "104000000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/gender-female.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

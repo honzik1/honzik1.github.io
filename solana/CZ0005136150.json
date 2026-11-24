@@ -1,0 +1,25 @@
+{
+  "name": "ATLANTA",
+  "symbol": "CZ0005136150",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/ev-front.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "42"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/ev-front.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

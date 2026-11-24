@@ -1,0 +1,25 @@
+{
+  "name": "UDI CEE",
+  "symbol": "CZ0009007571",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/calendar2-date.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "1587000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/calendar2-date.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

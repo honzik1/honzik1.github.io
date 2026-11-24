@@ -1,0 +1,25 @@
+{
+  "name": "RC EUROPE PROPERTY",
+  "symbol": "CZ0009006524",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/pin-angle.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "100"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/pin-angle.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

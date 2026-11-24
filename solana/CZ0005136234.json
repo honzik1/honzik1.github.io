@@ -1,0 +1,25 @@
+{
+  "name": "WOODROL",
+  "symbol": "CZ0005136234",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/boombox.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "1000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/boombox.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

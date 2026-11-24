@@ -1,0 +1,25 @@
+{
+  "name": "AID TEAM",
+  "symbol": "CZ0009006789",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/kanban.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "15"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/kanban.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

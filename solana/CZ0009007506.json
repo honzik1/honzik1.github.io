@@ -1,0 +1,25 @@
+{
+  "name": "AMBERG ENGIN. BRNO",
+  "symbol": "CZ0009007506",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/caret-left-square.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "500"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/caret-left-square.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

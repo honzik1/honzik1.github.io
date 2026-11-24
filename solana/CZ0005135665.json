@@ -1,0 +1,25 @@
+{
+  "name": "FLASH STEEL POWER",
+  "symbol": "CZ0005135665",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/person-wheelchair.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "100"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/person-wheelchair.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

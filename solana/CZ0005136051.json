@@ -1,0 +1,25 @@
+{
+  "name": "DŮLNÍ SLUŽBY",
+  "symbol": "CZ0005136051",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/hourglass-top.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "20"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/hourglass-top.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ARMEX ENERGY",
+  "symbol": "CZ0005136010",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/image-alt.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "375"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/image-alt.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "VOD. A KAN. NÁCHOD",
+  "symbol": "CZ0005136200",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/arrow-left.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "201049"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/arrow-left.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

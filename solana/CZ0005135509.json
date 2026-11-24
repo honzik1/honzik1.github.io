@@ -1,0 +1,25 @@
+{
+  "name": "MARTECH HOLDING",
+  "symbol": "CZ0005135509",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/plugin.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "10"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/plugin.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

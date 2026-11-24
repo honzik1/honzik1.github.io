@@ -1,0 +1,25 @@
+{
+  "name": "TECHMEN",
+  "symbol": "CZ0009007688",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/battery-low.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "2100"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/battery-low.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

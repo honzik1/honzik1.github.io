@@ -1,0 +1,25 @@
+{
+  "name": "NEM AGEL VAL MEZ",
+  "symbol": "CZ0009007225",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/emoji-grimace.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "10"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/emoji-grimace.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

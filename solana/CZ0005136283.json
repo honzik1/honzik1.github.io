@@ -1,0 +1,25 @@
+{
+  "name": "AGEL RESEARCH",
+  "symbol": "CZ0005136283",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/currency-pound.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "20"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/currency-pound.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

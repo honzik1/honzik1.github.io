@@ -1,0 +1,25 @@
+{
+  "name": "PBS ENERGO",
+  "symbol": "CZ0005136275",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/capslock-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "12900"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/capslock-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

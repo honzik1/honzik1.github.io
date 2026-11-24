@@ -1,0 +1,25 @@
+{
+  "name": "DEUTSCHE BANK",
+  "symbol": "DE0005140008",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/filetype-wav.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "2066773131"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/filetype-wav.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

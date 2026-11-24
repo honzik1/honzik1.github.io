@@ -1,0 +1,25 @@
+{
+  "name": "RWE",
+  "symbol": "DE0007037129",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/folder-symlink.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "575745499"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/folder-symlink.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

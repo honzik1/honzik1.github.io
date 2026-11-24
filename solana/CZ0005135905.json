@@ -1,0 +1,25 @@
+{
+  "name": "GEMO",
+  "symbol": "CZ0005135905",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/rewind-circle-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "200"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/rewind-circle-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

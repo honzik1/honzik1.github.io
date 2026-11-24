@@ -1,0 +1,25 @@
+{
+  "name": "TST SERVIS",
+  "symbol": "CZ0009006847",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/chat-right-text.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "1300"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/chat-right-text.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

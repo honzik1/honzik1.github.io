@@ -1,0 +1,25 @@
+{
+  "name": "ESB ROZVADĚČE",
+  "symbol": "CZ0005135954",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/pci-card.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "28000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/pci-card.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

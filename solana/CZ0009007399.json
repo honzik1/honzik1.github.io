@@ -1,0 +1,25 @@
+{
+  "name": "SCHUBERT PARTNER",
+  "symbol": "CZ0009007399",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/chat-quote.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "10"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/chat-quote.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

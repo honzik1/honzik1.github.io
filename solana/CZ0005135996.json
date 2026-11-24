@@ -1,0 +1,25 @@
+{
+  "name": "ZZN PELHŘIMOV",
+  "symbol": "CZ0005135996",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/layout-sidebar-inset.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "1"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/layout-sidebar-inset.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

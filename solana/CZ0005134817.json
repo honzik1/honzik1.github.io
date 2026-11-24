@@ -1,0 +1,25 @@
+{
+  "name": "JACER - CZ",
+  "symbol": "CZ0005134817",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/calendar-week-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "100"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/calendar-week-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AURES HOLDINGS",
+  "symbol": "CZ0009007035",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/align-top.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "12920000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/align-top.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

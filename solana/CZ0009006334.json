@@ -1,0 +1,25 @@
+{
+  "name": "INTERGAST",
+  "symbol": "CZ0009006334",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/database-up.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "300"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/database-up.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "VERBUND",
+  "symbol": "AT0000746409",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/hdmi.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "170233686"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/hdmi.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

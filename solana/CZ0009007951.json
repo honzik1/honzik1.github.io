@@ -1,0 +1,25 @@
+{
+  "name": "MAVI REAL ES. PARK",
+  "symbol": "CZ0009007951",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/arrow-90deg-down.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "16"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/arrow-90deg-down.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "LÉČ. LÁZ. JÁCHYMOV",
+  "symbol": "CZ0009007837",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/backpack3.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "2020"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/backpack3.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

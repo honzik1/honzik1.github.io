@@ -1,0 +1,25 @@
+{
+  "name": "M-LINE",
+  "symbol": "CZ0009006615",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/reception-0.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "2002"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/reception-0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

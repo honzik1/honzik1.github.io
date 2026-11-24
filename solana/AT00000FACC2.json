@@ -1,0 +1,25 @@
+{
+  "name": "FACC",
+  "symbol": "AT00000FACC2",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/gpu-card.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "45790000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/gpu-card.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

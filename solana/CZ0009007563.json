@@ -1,0 +1,25 @@
+{
+  "name": "BLOCK CRS",
+  "symbol": "CZ0009007563",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/cake-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "20"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/cake-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

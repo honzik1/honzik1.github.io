@@ -1,0 +1,25 @@
+{
+  "name": "FG FORREST",
+  "symbol": "CZ0009007175",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/explicit.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "18"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/explicit.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

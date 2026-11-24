@@ -1,0 +1,25 @@
+{
+  "name": "GREEN-SWAN PHAR.CR",
+  "symbol": "CZ0005135939",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/newspaper.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "898"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/newspaper.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

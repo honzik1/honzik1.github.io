@@ -1,0 +1,25 @@
+{
+  "name": "G4S SEC. SOLUTIONS",
+  "symbol": "CZ0009000691",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/calendar-date-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "4350"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/calendar-date-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

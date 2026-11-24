@@ -1,0 +1,25 @@
+{
+  "name": "BORUSSIA DORTMUND",
+  "symbol": "DE0005493092",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/file-music.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "92000000"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/file-music.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

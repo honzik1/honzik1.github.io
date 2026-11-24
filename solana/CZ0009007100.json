@@ -1,0 +1,25 @@
+{
+  "name": "MAIL STEP",
+  "symbol": "CZ0009007100",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/file-earmark-ruled-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "200"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/file-earmark-ruled-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

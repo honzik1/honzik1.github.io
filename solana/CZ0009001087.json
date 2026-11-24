@@ -1,0 +1,25 @@
+{
+  "name": "COMINFO",
+  "symbol": "CZ0009001087",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/arrow-clockwise.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "3150"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/arrow-clockwise.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "UNIQA INS",
+  "symbol": "AT0000821103",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/hdd-network-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "308607516"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/hdd-network-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

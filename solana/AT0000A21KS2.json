@@ -1,0 +1,25 @@
+{
+  "name": "CPI EUROPE",
+  "symbol": "AT0000A21KS2",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/emoji-neutral-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "138669711"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/emoji-neutral-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

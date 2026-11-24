@@ -1,0 +1,25 @@
+{
+  "name": "I.N.GLOBAL",
+  "symbol": "CZ0009007464",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/chat-left-heart-fill.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "50"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/chat-left-heart-fill.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

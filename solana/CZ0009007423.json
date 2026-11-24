@@ -1,0 +1,25 @@
+{
+  "name": "AGROKOP CZ",
+  "symbol": "CZ0009007423",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/chevron-down.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "155"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/chevron-down.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

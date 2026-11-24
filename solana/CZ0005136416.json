@@ -1,0 +1,25 @@
+{
+  "name": "VÁPENKA ČERT. SCH.",
+  "symbol": "CZ0005136416",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/building-fill-x.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "2300"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/building-fill-x.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

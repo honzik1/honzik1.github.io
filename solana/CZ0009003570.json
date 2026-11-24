@@ -1,0 +1,25 @@
+{
+  "name": "PROMEDICA PRAHA G.",
+  "symbol": "CZ0009003570",
+  "description": "Testing STYRAX Solana Token",
+  "image": "https://honzik1.github.io/solana/icons/pentagon-half.png",
+  "external_url": "https://www.styrax.cz",
+  "attributes": [
+    {
+      "trait_type": "amount",
+      "value": "3900"
+    },
+    {
+      "trait_type": "kind",
+      "value": "akcie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://honzik1.github.io/solana/icons/pentagon-half.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
